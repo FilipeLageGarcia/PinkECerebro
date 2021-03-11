@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PinkECerebro/1.0.0": {
+        "runtime": {
+          "PinkECerebro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PinkECerebro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

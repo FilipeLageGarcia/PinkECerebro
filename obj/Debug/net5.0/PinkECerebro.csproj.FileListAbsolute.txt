@@ -1,0 +1,16 @@
+H:\Workspace\PinkECerebro\bin\Debug\net5.0\PinkECerebro.exe
+H:\Workspace\PinkECerebro\bin\Debug\net5.0\PinkECerebro.deps.json
+H:\Workspace\PinkECerebro\bin\Debug\net5.0\PinkECerebro.runtimeconfig.json
+H:\Workspace\PinkECerebro\bin\Debug\net5.0\PinkECerebro.runtimeconfig.dev.json
+H:\Workspace\PinkECerebro\bin\Debug\net5.0\PinkECerebro.dll
+H:\Workspace\PinkECerebro\bin\Debug\net5.0\ref\PinkECerebro.dll
+H:\Workspace\PinkECerebro\bin\Debug\net5.0\PinkECerebro.pdb
+H:\Workspace\PinkECerebro\obj\Debug\net5.0\PinkECerebro.csprojAssemblyReference.cache
+H:\Workspace\PinkECerebro\obj\Debug\net5.0\PinkECerebro.GeneratedMSBuildEditorConfig.editorconfig
+H:\Workspace\PinkECerebro\obj\Debug\net5.0\PinkECerebro.AssemblyInfoInputs.cache
+H:\Workspace\PinkECerebro\obj\Debug\net5.0\PinkECerebro.AssemblyInfo.cs
+H:\Workspace\PinkECerebro\obj\Debug\net5.0\PinkECerebro.csproj.CoreCompileInputs.cache
+H:\Workspace\PinkECerebro\obj\Debug\net5.0\PinkECerebro.dll
+H:\Workspace\PinkECerebro\obj\Debug\net5.0\ref\PinkECerebro.dll
+H:\Workspace\PinkECerebro\obj\Debug\net5.0\PinkECerebro.pdb
+H:\Workspace\PinkECerebro\obj\Debug\net5.0\PinkECerebro.genruntimeconfig.cache
